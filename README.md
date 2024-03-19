@@ -1,4 +1,4 @@
-# MovieRocket# MovieRocket
+# MovieRocket
 
 MovieRocket is a Flutter app built using the GetX state management library, providing a seamless experience for discovering and exploring movies through the MovieDB API.
 
