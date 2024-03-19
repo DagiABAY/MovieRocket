@@ -36,6 +36,6 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 This project is licensed under the [MIT License](LICENSE).
 
-#Demo
+# Demo
 
 https://github.com/DagiABAY/MovieRocket/assets/125886766/6c8bd55e-66d1-45d0-a319-e792af1d5555
