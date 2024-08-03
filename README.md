@@ -21,8 +21,8 @@ MovieRocket is a Flutter app built using the GetX state management library, prov
 
 - [Flutter](https://flutter.dev/)
 - [GetX](https://pub.dev/packages/get)
-- flutter_launcher_icons
-- [http](https://pub.dev/packages/dio) for API requests.
+- [flutter_launcher_icons](https://pub.dev/packages/get)
+- [dio](https://pub.dev/packages/dio) for API requests.
 
 ## Screenshots
 
